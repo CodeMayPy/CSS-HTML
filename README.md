@@ -1,3 +1,4 @@
+
 # 🌐 Estudos de HTML e CSS
 
 Este repositório é parte da minha jornada de estudos práticos em desenvolvimento web, seguindo o curso do **Curso em Vídeo** com o professor **Gustavo Guanabara**.
@@ -35,6 +36,4 @@ Este repositório é parte da minha jornada de estudos práticos em desenvolvime
 > Cada pasta representa uma aula ou projeto do curso.
 
 ---
-
-
 
